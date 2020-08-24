@@ -1,0 +1,8 @@
+Plaintext : theredarmywillcomeleningradattomorrowfivedawnholdthegateuntilmorningtheairsupportwillstartbombingafterpanzardivisionmovesxxxx
+
+Length of key : 5
+The ordering is : 5,3,4,1,2
+
+Encoded Text: RMLLGTRIWDATRTROLRBFADIVXEYCERTRVNTTINHSRLTITNIOEXHAIMIDMWDOEUMNAPWTOGRAIMXERLENAOFALGNOGIPIAMAPRSOXTDWONAOOEHHELIEUTSBNEZVNS
+
+Accuracy:100.0
